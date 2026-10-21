@@ -1,0 +1,8 @@
+*.dta
+data/raw/
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+.DS_Store
